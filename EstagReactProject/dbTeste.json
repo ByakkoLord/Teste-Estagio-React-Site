@@ -2,6 +2,21 @@
   "products": [
     { "id": 1, "name": "Camiseta", "price": 49.90, "description": "Camiseta 100% algodão." },
     { "id": 2, "name": "Calça Jeans", "price": 99.90, "description": "Calça jeans azul." },
-    { "id": 3, "name": "Tênis", "price": 199.90, "description": "Tênis esportivo confortável." }
+    { "id": 3, "name": "Tênis", "price": 199.90, "description": "Tênis esportivo confortável." },
+    { "id": 4, "name": "Boné", "price": 29.90, "description": "Boné estiloso para o dia a dia." },
+    { "id": 5, "name": "Jaqueta", "price": 149.90, "description": "Jaqueta de inverno forrada." },
+    { "id": 6, "name": "Meias", "price": 19.90, "description": "Pacote com 3 pares de meias." },
+    { "id": 7, "name": "Relógio", "price": 249.90, "description": "Relógio analógico com pulseira de couro." },
+    { "id": 8, "name": "Óculos de Sol", "price": 79.90, "description": "Óculos de sol com proteção UV." },
+    { "id": 9, "name": "Cinto", "price": 39.90, "description": "Cinto de couro preto." },
+    { "id": 10, "name": "Mochila", "price": 119.90, "description": "Mochila espaçosa para viagem ou escola." },
+    { "id": 11, "name": "Gorro", "price": 25.90, "description": "Gorro de lã para o inverno." },
+    { "id": 12, "name": "Chinelo", "price": 29.90, "description": "Chinelo de borracha confortável." },
+    { "id": 13, "name": "Camisa Social", "price": 79.90, "description": "Camisa social branca clássica." },
+    { "id": 14, "name": "Shorts", "price": 49.90, "description": "Shorts de algodão para o verão." },
+    { "id": 15, "name": "Blusa de Moletom", "price": 89.90, "description": "Moletom com capuz." },
+    { "id": 16, "name": "Tênis Casual", "price": 159.90, "description": "Tênis casual para o dia a dia." },
+    { "id": 17, "name": "Jaqueta Jeans", "price": 129.90, "description": "Jaqueta jeans moderna." },
+    { "id": 18, "name": "Carteira", "price": 59.90, "description": "Carteira de couro masculina." }
   ]
 }
