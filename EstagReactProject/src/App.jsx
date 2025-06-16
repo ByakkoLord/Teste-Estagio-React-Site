@@ -1,18 +1,22 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import ProductList from './components/ProductList'
-import './App.css'
+import { useState } from "react"
+import ProductList from "./components/ProductList"
+import Cart from "./components/Cart"
+import Header from "./components/Header"
+import "./App.css"
+
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-    
-      <ProductList />
+      <div className="app">
+        <Header />
+        <ProductList />
+        <Cart cartItems={[]} onRemoveFromCart={() => {}} />
+      </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
