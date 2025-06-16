@@ -1,0 +1,7 @@
+{
+  "products": [
+    { "id": 1, "name": "Camiseta", "price": 49.90, "description": "Camiseta 100% algodão." },
+    { "id": 2, "name": "Calça Jeans", "price": 99.90, "description": "Calça jeans azul." },
+    { "id": 3, "name": "Tênis", "price": 199.90, "description": "Tênis esportivo confortável." }
+  ]
+}
